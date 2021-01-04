@@ -37,6 +37,6 @@ SSM
 
 Oracle数据库
 
-- [Oracle数据库](https://github.com/Java-Sober/study/tree/main/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [Oracle数据库](https://github.com/Java-Sober/study/blob/main/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 
 # 后续会持续分享学习经验及更多Java知识，整理不易，帮忙点个star支持一下~
