@@ -12,7 +12,7 @@
 
 Java基础
 
-- [Java基础语法](https://github.com/Java-Sober/study/blob/main/Java%E5%9F%BA%E7%A1%80/J2SE.md)
+- [Java基础语法](https://github.com/Java-Sober/study/blob/main/Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 - [面向对象](https://github.com/Java-Sober/study/blob/main/Java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 - [J2SE](https://github.com/Java-Sober/study/blob/main/Java%E5%9F%BA%E7%A1%80/J2SE.md)
 
