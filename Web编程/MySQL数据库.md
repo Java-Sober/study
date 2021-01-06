@@ -98,7 +98,7 @@ UPDATE runoob_tbl SET runoob_title='学习 C++' WHERE runoob_id=1;
 SELECT field1, field2,...fieldN FROM table_name1, table_name2...
 [WHERE condition1 [AND [OR]] condition2.....
 
-SELECT * from runoob_tbl WHERE runoob_author='菜鸟教程';
+SELECT * from runoob_tbl WHERE runoob_author='曾曾';
 1234
 ```
 
