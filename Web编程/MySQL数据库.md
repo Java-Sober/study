@@ -69,7 +69,7 @@ VALUES
 
 INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date)
 VALUES
-("学习 PHP", "菜鸟教程", NOW());
+("学习 Java", "曾曾", NOW());
 1234567
 ```
 
